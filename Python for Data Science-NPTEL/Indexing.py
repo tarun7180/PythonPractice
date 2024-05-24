@@ -28,3 +28,14 @@ sampleList.index('tarun')
 sampleList[2]
 
 sampleList[-1]
+
+
+#Array: Indexing
+
+from array import *
+
+sampleArray = array('i',[1,2,3,4])
+
+for x in sampleArray: print(x)
+
+sampleArray[-3]
