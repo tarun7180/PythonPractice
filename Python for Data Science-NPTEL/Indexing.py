@@ -39,3 +39,12 @@ sampleArray = array('i',[1,2,3,4])
 for x in sampleArray: print(x)
 
 sampleArray[-3]
+
+
+#Tuple: Indexing
+
+sampleTuple = (1,2,3,4,3,'py')
+
+sampleTuple.index('py')
+
+sampleTuple[2]
