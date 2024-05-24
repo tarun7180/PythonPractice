@@ -48,3 +48,19 @@ sampleTuple = (1,2,3,4,3,'py')
 sampleTuple.index('py')
 
 sampleTuple[2]
+
+
+#Dictionary: Indexing
+
+sampleDict1 = {1:"one", "two":2, 3:"three", "four":4, 5:5}
+
+sampleDict1[1]
+
+
+#Range: Indexing
+
+rangeSample = range(2,10,2)
+
+rangeSample.index(2)
+
+rangeSample[1]
