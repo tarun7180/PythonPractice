@@ -24,3 +24,20 @@ for i in sampleArray : print(i)
 
 sampleTuple = (1,2,3,3,2,1,'tj','ab')
 print(sampleTuple)
+
+sampleDict1 = {1:"one", "two":2, 3:"three", "four":4, 5:5}
+print(sampleDict1)
+
+sampleDict2 = dict([(1,'one'),('two',2),(3,'three'),('four',4),(5,5)])
+print(sampleDict2)
+
+sampleSet1 = {'one',1,'a'}
+print(sampleSet1)
+
+sampleset2 = set('tarun jain')
+print(sampleset2)
+
+rangeSample = range(2,10,2)
+print(rangeSample)
+
+for x in rangeSample : print(x)
