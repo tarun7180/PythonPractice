@@ -17,3 +17,14 @@ sampleString[7]
 sampleString[-2]
 
 sampleString[-9]
+
+
+#List: Indexing
+
+sampleList = [1,2,'a','tarun',1]
+
+sampleList.index('tarun')
+
+sampleList[2]
+
+sampleList[-1]
